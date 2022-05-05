@@ -28,6 +28,8 @@ https://atb.uq.edu.au/，打开之后，自行注册账号。然后登陆网站�
 所以，务必要下载ATB网站自己的gromos54a7力场，上传到模拟目录里面，然后在top文件里面不再调用gromacs软件自带力场的路径，改为当前你在ATB网站上下载的gromos54a7力场文件夹，路径一定不要弄错。
 12、下载方法为：点击页面 Others，选择Forcefield Files，进入新界面。
 13、选择下图红框中的力场即可
+
+ATB网站最后选用Topology File和Structure File：GROMACS G54A7FF United-Atom (ITP file)；United-Atom PDB (optimised geometry)
 ```
 
 
